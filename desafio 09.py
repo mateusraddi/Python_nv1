@@ -1,0 +1,5 @@
+d = float(input('Uma Distancia em Metros: '))
+print('='*10)
+print(f'A medida de {d} corresponde a:')
+print(f'{d/1000}km\n{d/100}hm\n{d/10}dam\n{d*10}dm\n{d*100}cm\n{d*1000}mm')
+print('='*10)
