@@ -10,10 +10,14 @@ PRINT=ESCREVA
 INPUT=LEIA
 ??? = RECEBE INFORMACÃO
 int = numero inteiro
-float= numero flutuante 4.0,4.3,4.1
-bool= aceita so dois valores verdadeiro ou falso
-str=string
-type= tipo primitivo ex,print(type(n1))
+float = numero flutuante 4.0, 4.3, 4.1
+bool = aceita so dois valores verdadeiro ou falso
+str = string
+type = tipo primitivo ex,print(type(n1))
+import = importar biblioteca
+from = ir para o documento ou importacão
+from xxxxxxx import = ir para importacão especifica exp: from math import floor
+math = biblioteca matematicas exp: ceil, floor, trunc, pow, sqrt, factorial.
 
 
 ORDEM DE PROCEDENCIA ARITMETICA: primeiro (), depois potencia**, depois *,/,//,%
