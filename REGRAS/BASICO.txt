@@ -19,6 +19,15 @@ from = ir para o documento ou importacão
 from xxxxxxx import = ir para importacão especifica exp: from math import floor
 math = biblioteca matematicas exp: ceil, floor, trunc, pow, sqrt, factorial.
 
+len = comprimento, quantidade da frase exp: len(olá com dia) vai mostrar 11 caracteres, os espaços são contados como unidade tambem!
+
+count = contagem, exp frase = input('bom dia')  frase.count(0,7)
+
+find = quantas vezes encontrou a frase na string, e te da o valor exato, quando não encontrar a frase o valor sera -1, modo de uso exp frase.find(" ")  
+
+
+
+
 
 ORDEM DE PROCEDENCIA ARITMETICA: primeiro (), depois potencia**, depois *,/,//,%
 
