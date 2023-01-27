@@ -53,6 +53,9 @@ split = faz uma divisão em sua string como se fosse varios setores modo de uso 
    1      2     3       4
 
 
+join = juntar string, modo de uso '-'.frase() ou ' '.frase() vai juntar a frase tipo ('curso-de video-em-python)
+
+
 
 
 
