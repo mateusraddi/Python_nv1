@@ -45,8 +45,12 @@ title = vai analisar quantas palavras tem na string e colocar letras maiúsculas
 
 strip = vai remover espaços do lado da string, modo de usoexp> frase.strip() vai remover espaços vazios da lateral  
 
+rstrip = remove lado vazio do lado direito da string exp> frase.rstrip()
+lstrip = remove lado vazio do lado esquerdo da  exp> frase.lstrip()
 
-
+split = faz uma divisão em sua string como se fosse varios setores modo de uso exp> frase.split('curso em video python') vai separar em setores a string
+[curso] [em] [video] [python]
+   1      2     3       4
 
 
 
