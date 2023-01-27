@@ -42,7 +42,8 @@ lower = significa pra baixo, string vai ficar com letras minúsculas modo de uso
 capitalize = vai pegar uma string inteira e vai colocar ela em letras minúsculas e so a primeia letra da string em maiúsculas modo de uso> frase.capitalize('JOGADOR') vai ficar ('Jogador').
 
 title = vai analisar quantas palavras tem na string e colocar letras maiúsculas na ordem correta modo de uso> frase.title('como fazer uma torta') vai ficar de forma adequada ('Como Fazer Uma Torta')
- 
+
+strip = vai remover espaços do lado da string, modo de usoexp> frase.strip() vai remover espaços vazios da lateral  
 
 
 
