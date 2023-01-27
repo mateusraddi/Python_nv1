@@ -35,6 +35,16 @@ in = analisa a string, exp 'gato' in frase,se a frase marcada entre '?' existir 
 
 replace = faz uma substituição na string, exp> frase.replace('jogo','celular') vai trocar 'jogo' por 'celular' na string.
 
+upper = significa pra cima, string vai ficar com letras maiúsculas modo de uso exp> frase.upper() o que ja tem letra maiúsculas vai manter e as letras que não tem vai transformar em maiúsculas.
+
+lower = significa pra baixo, string vai ficar com letras minúsculas modo de uso exp. frase.lower() o que ja tem letra minúsculas vai manter e as letras que não são vai transformalas.
+
+capitalize = vai pegar uma string inteira e vai colocar ela em letras minúsculas e so a primeia letra da string em maiúsculas modo de uso> frase.capitalize('JOGADOR') vai ficar ('Jogador').
+
+title = vai analisar quantas palavras tem na string e colocar letras maiúsculas na ordem correta modo de uso> frase.title('como fazer uma torta') vai ficar de forma adequada ('Como Fazer Uma Torta')
+ 
+
+
 
 
 
