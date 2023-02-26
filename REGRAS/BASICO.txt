@@ -55,7 +55,10 @@ split = faz uma divisão em sua string como se fosse varios setores modo de uso 
 
 join = juntar string, modo de uso '-'.frase() ou ' '.frase() vai juntar a frase tipo ('curso-de video-em-python)
 
+CONDIÇÃOES
 
+IF = É IGUAL A VERDADEIRO, SE ACONTECER ESSA CONDIÇÃO
+ELSE = É IGUAL A FALSO SE NÃO ACONTECER A CONDIÇÃO
 
 
 
